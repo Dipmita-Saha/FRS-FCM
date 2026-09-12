@@ -294,18 +294,6 @@ Future research directions include
 
 ---
 
-# Citation
-
-If you use this repository in your research, please cite it appropriately.
-
-```bibtex
-@misc{frsfcm2026,
-  title={Enhanced FRS-FCM: Confidence-Based Boundary Refinement for Fuzzy C-Means Clustering},
-  author={Your Name},
-  year={2026},
-  note={GitHub Repository}
-}
-```
 
 ---
 
