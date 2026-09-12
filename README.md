@@ -309,15 +309,3 @@ If you use this repository in your research, please cite it appropriately.
 
 ---
 
-# License
-
-This project is released under the MIT License.
-
----
-
-## Author
-
-**Anirbaan Sarkar**
-
-B.Tech Computer Science & Engineering  
-Research Interest: Machine Learning, Pattern Recognition, Soft Computing, Data Mining, Intelligent Clustering
